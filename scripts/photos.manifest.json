@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "hero",
+    "title": "Ciastka cynamonowe Sztokholm",
+    "author": "MOs810",
+    "source": "https://commons.wikimedia.org/wiki/File:Ciastka_cynamonowe_Sztokholm.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ciastka_cynamonowe_Sztokholm.jpg/1920px-Ciastka_cynamonowe_Sztokholm.jpg"
+  },
+  {
+    "slug": "story",
+    "title": "Making Bread (Unsplash)",
+    "author": "Gaëlle Marcel",
+    "source": "https://commons.wikimedia.org/wiki/File:Making_Bread_(Unsplash).jpg",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Making_Bread_%28Unsplash%29.jpg/1920px-Making_Bread_%28Unsplash%29.jpg"
+  },
+  {
+    "slug": "matcha",
+    "title": "Matcha - Chasing Rabbits Coffee House",
+    "author": "Andy Li",
+    "source": "https://commons.wikimedia.org/wiki/File:Matcha_-_Chasing_Rabbits_Coffee_House_2025-10-11.jpg",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Matcha_-_Chasing_Rabbits_Coffee_House_2025-10-11.jpg/1920px-Matcha_-_Chasing_Rabbits_Coffee_House_2025-10-11.jpg"
+  },
+  {
+    "slug": "bun",
+    "title": "Cinnamon roll in Stockholm",
+    "author": "Kritzolina",
+    "source": "https://commons.wikimedia.org/wiki/File:Cinnamon_roll_in_Stockholm.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cinnamon_roll_in_Stockholm.jpg/1920px-Cinnamon_roll_in_Stockholm.jpg"
+  },
+  {
+    "slug": "croissant",
+    "title": "Croissant",
+    "author": "Blarvar",
+    "source": "https://www.flickr.com/photos/46583370@N04/4599562280",
+    "license": "Public Domain Mark 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "download": "https://live.staticflickr.com/1351/4599562280_75cf2426d5_k.jpg"
+  },
+  {
+    "slug": "pastry",
+    "title": "Macaroon Boutique chocolate croissants 1",
+    "author": "khawkins04",
+    "source": "https://www.flickr.com/photos/49978063@N00/5290030329",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "download": "https://live.staticflickr.com/5041/5290030329_5fd4b1555d_k.jpg",
+    "grade": {
+      "saturation": 0.72
+    }
+  },
+  {
+    "slug": "loaf",
+    "title": "rustic homemade sourdough bread and butter",
+    "author": "jules:stonesoup",
+    "source": "https://www.flickr.com/photos/58367355@N00/5070438950",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "download": "https://live.staticflickr.com/4144/5070438950_b3848f5d41_k.jpg"
+  },
+  {
+    "slug": "room",
+    "title": "Seattle Bauhaus 10A",
+    "author": "Joe Mabel",
+    "source": "https://commons.wikimedia.org/wiki/File:Seattle_Bauhaus_10A.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Seattle_Bauhaus_10A.jpg/1920px-Seattle_Bauhaus_10A.jpg"
+  },
+  {
+    "slug": "pour",
+    "title": "Brewing coffee in a jug (Unsplash)",
+    "author": "Karl Fredrickson",
+    "source": "https://commons.wikimedia.org/wiki/File:Brewing_coffee_in_a_jug_(Unsplash).jpg",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Brewing_coffee_in_a_jug_%28Unsplash%29.jpg/1920px-Brewing_coffee_in_a_jug_%28Unsplash%29.jpg"
+  },
+  {
+    "slug": "cups",
+    "title": "Beetroot Latte and Matcha Latte, Purezza, Brighton",
+    "author": "Andy Li",
+    "source": "https://commons.wikimedia.org/wiki/File:Beetroot_Latte_and_Matcha_Latte,_Purezza,_Brighton.jpg",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Beetroot_Latte_and_Matcha_Latte%2C_Purezza%2C_Brighton.jpg/1920px-Beetroot_Latte_and_Matcha_Latte%2C_Purezza%2C_Brighton.jpg"
+  },
+  {
+    "slug": "counter",
+    "title": "Kanelbullar homemade",
+    "author": "Andreas Ivarsson",
+    "source": "https://commons.wikimedia.org/wiki/File:Kanelbullar_homemade.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kanelbullar_homemade.jpg/1920px-Kanelbullar_homemade.jpg"
+  }
+]
